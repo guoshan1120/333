@@ -1,4 +1,8 @@
 第一次
+<<<<<<< HEAD
 gaigaigai
 
 我是全栈工程师
+=======
+gitgit
+>>>>>>> dev
